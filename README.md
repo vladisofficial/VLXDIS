@@ -41,7 +41,7 @@ python main.py
 
 ### Telegram-бот
 1. Создайте бота через @BotFather
-2. Вставьте токен в `bot.py` → `BOT_TOKEN = "ваш_токен"`
+2. Вставьте токен в `bot.py` → `BOT_TOKEN = "ВСТАВЬ_ТОКЕН"`
 3. Запустите:
 ```
 python bot.py
