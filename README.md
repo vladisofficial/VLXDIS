@@ -18,7 +18,7 @@
 
 ### 1. Клонирование
 ```
-git clone https://github.com/your-repo/vlxdis.git
+git clone https://github.com/vladisofficial/VLXDIS.git
 cd vlxdis
 ```
 
